@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Taosheng-Li/First-React-project/static/css/main.fd9d41b2.css",
-    "main.js": "/Taosheng-Li/First-React-project/static/js/main.ef6eb689.js",
-    "index.html": "/Taosheng-Li/First-React-project/index.html",
-    "main.fd9d41b2.css.map": "/Taosheng-Li/First-React-project/static/css/main.fd9d41b2.css.map",
-    "main.ef6eb689.js.map": "/Taosheng-Li/First-React-project/static/js/main.ef6eb689.js.map"
+    "main.css": "./static/css/main.fd9d41b2.css",
+    "main.js": "./static/js/main.ef6eb689.js",
+    "index.html": "./index.html",
+    "main.fd9d41b2.css.map": "./static/css/main.fd9d41b2.css.map",
+    "main.ef6eb689.js.map": "./static/js/main.ef6eb689.js.map"
   },
   "entrypoints": [
     "static/css/main.fd9d41b2.css",
