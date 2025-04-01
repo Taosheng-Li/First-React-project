@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.body {
+}
+.main-section {
+  padding: 20px 40px;
+}
+
+.main-section p {
+  padding-top: 10px;
+}
+
+.content {
+  padding: 0px 40px;
+  position: relative;
+  width: 50%;
+}
+
+.detail-content {
+  margin-top: 12px;
+  padding: 12px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: #e5e4e2;
+  border-radius: 8px;
+  color: #292929;
+}
+
+.content img {
+  margin-top: 12px;
+  position: relative;
+  display: block;
+  border-radius: 8px;
+}
+
+.button {
+  display: flex;
+  justify-content: space-between; /* 让子元素贴着两端 */
+  margin-top: 12px;
+  width: 100%; /* 确保容器占满父元素宽度 */
+}
